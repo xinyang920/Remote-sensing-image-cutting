@@ -1,5 +1,4 @@
 # -*- encoding: utf-8 -*-
-
 # @File     : main.py
 # @Time     : 2023/01/10 09:32
 # @Version  : 1.0
@@ -7,7 +6,8 @@
 # @Contact  : yang_ax@foxmail.com
 # @Software : Vscode
 
-# git 修改测试！
+
+
 import glob
 from osgeo import gdal
 # 安装教程参考：https://blog.csdn.net/liubing8609/article/details/124000951
