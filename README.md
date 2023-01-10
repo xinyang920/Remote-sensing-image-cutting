@@ -12,7 +12,7 @@
             - xxx.tif
             - xxx_1.xml
             - xxx_2.xml
-         - 2-xx:
+        - 2-xx:
           - 1-zq:
             - xxx.tif
             - xxx_1.xml
